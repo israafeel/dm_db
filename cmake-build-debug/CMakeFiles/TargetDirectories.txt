@@ -1,3 +1,0 @@
-E:/Project/C/dm_db/cmake-build-debug/CMakeFiles/dm_db.dir
-E:/Project/C/dm_db/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Project/C/dm_db/cmake-build-debug/CMakeFiles/rebuild_cache.dir
